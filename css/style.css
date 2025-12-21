@@ -18,6 +18,16 @@ header h1 {
     margin: 0;
     font-size: 2em;
 }
+nav {
+    background-color: #444444;
+    padding: 10px;
+    text-align: center;
+}
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 10px;
+}
 main {
     padding: 20px;
 }
