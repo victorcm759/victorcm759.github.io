@@ -1,0 +1,433 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/ArchitectureCraft.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/Artifice.cfg"
+hash = "1026607f4a0700856f4a1b50797a00b67e0adfb4e34f37425bbd92a362c1685f"
+
+[[files]]
+file = "config/Baubles.cfg"
+hash = "f8ae21e18ead5b881c2c71f9229ccf493e3fc863b10442bb7537738b467eca64"
+
+[[files]]
+file = "config/CalendarAPI.cfg"
+hash = "d08b89b15ae4a672801f78d53682ef319ede243700b74fb8d2ee580dc68176d9"
+
+[[files]]
+file = "config/CarpentersBlocks.cfg"
+hash = "da706551e55e3ef5f7b99d3587483a70a6e224e686b1a3ae932a5fa393a2179c"
+
+[[files]]
+file = "config/ChickenChunks.cfg"
+hash = "0b7a339aa1dd994fd29fc19cac1f14b4a36ffe5b8d3f0500a3d31b1917e0dc27"
+
+[[files]]
+file = "config/CodeChickenCore.cfg"
+hash = "85a7fb0e2a4dce72e34c3c830b93e16c4cd773da1b5024b6989e15a911595735"
+
+[[files]]
+file = "config/CustomNpcs.cfg"
+hash = "34664c3a1825bb7eb0bcd48522db2c891be81ce7297810d9f68eedc0110dfa1b"
+
+[[files]]
+file = "config/DynamicTransport.cfg"
+hash = "c08bbafa33dbe260d0b6472d43fa2e2c16e4943ac2e12dd7e6c581684341bfa2"
+
+[[files]]
+file = "config/FloodLights.cfg"
+hash = "8e91935203a22056af3de8f951a649834ca262ab175d9408a48c199964069df1"
+
+[[files]]
+file = "config/FoodPlus.cfg"
+hash = "40406a256ffd2f155bd332953932c908481a1246d2d8f7a72a58a3da94ab4a57"
+
+[[files]]
+file = "config/GraviGun.cfg"
+hash = "d705db7a68d6d6b323cc9d473c762f316fb7ab996ab2b2fddcf6479eb739cb1d"
+
+[[files]]
+file = "config/IGWMod.cfg"
+hash = "289f30b9270c97a2f7d395b477185cd3b2f2244b02049fdb2e680eeeeb5b493b"
+
+[[files]]
+file = "config/LotsOfFood.cfg"
+hash = "4e85464156b127e643918be6e7a5b0184aa47e1f093a4d4eb86990c2c353b373"
+
+[[files]]
+file = "config/MoarSigns.cfg"
+hash = "20ca9a0937f7e26cd39bd7507e01c5783d3b91b6496a687ead6624efcf975738"
+
+[[files]]
+file = "config/Monoblocks.cfg"
+hash = "8d45a36691ac9208db28639d90bb105073eda01ca028ef8032608cfd134314b9"
+
+[[files]]
+file = "config/PTRModelLib.cfg"
+hash = "d0a1ed692675a4257ac278192629ff8dc4fa628107b1f0e373be828c96126db0"
+
+[[files]]
+file = "config/PortalGun.cfg"
+hash = "f857af126118edd200597b1fd13470f93de9eab3ef5b0f825a1c78877248a3ce"
+
+[[files]]
+file = "config/RedstonePasteMod.cfg"
+hash = "b67e2f07256651dbaa3a4c905942b560813e0957655692a0c639c55a7cf47077"
+
+[[files]]
+file = "config/SimpleWorldTimer.cfg"
+hash = "e303122460b887050d71bee9d8c016e304e1d3d8752f34b45232c7b766650c49"
+
+[[files]]
+file = "config/SlimevoidLib.cfg"
+hash = "f8ae21e18ead5b881c2c71f9229ccf493e3fc863b10442bb7537738b467eca64"
+
+[[files]]
+file = "config/WallpaperCraft.cfg"
+hash = "df606b85e2ecc5c11afc3271ab181430b120902d5d0ba711a4dd6088377f2aad"
+
+[[files]]
+file = "config/Ztones.cfg"
+hash = "1d2950e206159e3ab5541b0591ad914147c3f98b986a44ff8831980371495231"
+
+[[files]]
+file = "config/additionalcompression.cfg"
+hash = "59082a06a2e6cadc922a84879f4471330d6430bf1ec72675c058fd9a826a3674"
+
+[[files]]
+file = "config/aziasvendingmachine.cfg"
+hash = "dfd5bd4f8c053070eacd7b60bda153dda07f820d2f8f11871a1c6b70b555b6a1"
+
+[[files]]
+file = "config/cfm.cfg"
+hash = "a81a48401d51f0af981777824265d738aba08f966f938bb66a2d41d9f988bdf9"
+
+[[files]]
+file = "config/chisel.cfg"
+hash = "566fe6966f0c4bed175a1a46042ef693db45995e8143d973b1febb3fa4b9f180"
+
+[[files]]
+file = "config/etfuturum.cfg"
+hash = "97f39a89d40f48f38385e5808b66d96e074810723d45f973a8a00a02ec6274b5"
+
+[[files]]
+file = "config/forge.cfg"
+hash = "56acf28c2653e1d5d159648edbbbd9bc86832bd956a8a4e7be7adf7c558a5c7e"
+
+[[files]]
+file = "config/forgeChunkLoading.cfg"
+hash = "ef4ca42f2810a1b5fef2d14fed9d7ef0bb5e1751b71966ec5c0e08addf3479f5"
+
+[[files]]
+file = "config/frsm.cfg"
+hash = "3e64508291ba29d6e97b43dd4852b4c95dd10f23174ea40fc387ebe6b38c5a2d"
+
+[[files]]
+file = "config/gases.cfg"
+hash = "b0ffe60557f72af02fd30b4f4b931567d86865c39ec7bfe115cd8f3de2d494e0"
+
+[[files]]
+file = "config/gasesFramework.cfg"
+hash = "48384397ba75a20d7377adec21bed8447971d53fe4b0838f6bcdce844cba75c6"
+
+[[files]]
+file = "config/gasesframework_GasFurnaceRecipes.json"
+hash = "1331b92489a4462c18282206e10a8082a32bb00f41dd1ea8142872e4044eed97"
+
+[[files]]
+file = "config/globbypotato_rockhounding.cfg"
+hash = "02dce2090d3dfb05ad6c049cc566dda18c9436d62a2f690ca046fbc5b5a1cd9e"
+
+[[files]]
+file = "config/grim3212core.cfg"
+hash = "0f7b375f6e66fceb4dc92eb2515cda1d82ee4e58324cc5cf6701bb20e9dbde0e"
+
+[[files]]
+file = "config/iChunUtil.cfg"
+hash = "16e40fb467c94e4064a6bbbd265810469c655c8e6ae546749528267604c6d082"
+
+[[files]]
+file = "config/iChunUtil_KeyBinds.cfg"
+hash = "f8ae21e18ead5b881c2c71f9229ccf493e3fc863b10442bb7537738b467eca64"
+
+[[files]]
+file = "config/iChunUtil_Stats.cfg"
+hash = "065fbb78a91e2400e0b7361c1c34753efeb7c7d4987b37da22d6a7324bdb7c99"
+
+[[files]]
+file = "config/malisisdoors.cfg"
+hash = "18af8815593a77323c1c756ac37b287fab47d9be11df1efe88f17120d35ea08c"
+
+[[files]]
+file = "config/props.cfg"
+hash = "06ab17faa5d807819ba5be136b7355e4b9eb8bfb4f9bee6111a7bb0bb6a8b12c"
+
+[[files]]
+file = "config/roadstuff.cfg"
+hash = "08d59159074134dc2f3a5523525b2cf8aaac3951b0d8ea7abbe77aea1ee14543"
+
+[[files]]
+file = "config/secretroomsmod.cfg"
+hash = "f9834d231653a967ef47c07317e28701d0a732890800eff2f0e1178dfb0a3299"
+
+[[files]]
+file = "config/securitycraft.cfg"
+hash = "8b33a6868a9d82fd844c1abf4b7ec5483571990782a3f80dfef13c04134016fe"
+
+[[files]]
+file = "config/signpic.cfg"
+hash = "8d8f96b895ae7596bf1299235464256dffaed9f6793f568e428824ee8e4b3bf5"
+
+[[files]]
+file = "config/simplyjetpacks-client.cfg"
+hash = "90f09deef0af17c070466fe9692a6f5d460059bb12dc9c6865f5eeb84319173a"
+
+[[files]]
+file = "config/simplyjetpacks.cfg"
+hash = "412c30112ff46ce3540cf5d3cd116011ac263ab2e0860d95365eb333f2ba6d7d"
+
+[[files]]
+file = "config/splash.properties"
+hash = "1a5671b56bcaa06e82efbab41658c2102c66e93d21636c8e47fdf160fbd8e28e"
+
+[[files]]
+file = "config/stefinusguns.cfg"
+hash = "dc43983cc52ed4100f67408b2543521b8260313949ad7f9ccdd33627b826b087"
+
+[[files]]
+file = "mods/Additional+Compression-1.7.10-3.0.jar"
+hash = "49f8b67fbe45262f2e7ec2256d44079506dbb64af455ffd6a0b95ecc42b31032"
+
+[[files]]
+file = "mods/ArchitectureCraft-1.7.2-mc1.7.10.jar"
+hash = "0a0210d3372d5963b27a574f3e23ecaedd052d72bc0cb51e250462f6edc342bf"
+
+[[files]]
+file = "mods/Artifice-1.7.10-1.1.5R-399.jar"
+hash = "d71218c42713e07e5359721491fa1b3f4ff4b8759b97ff3b57362e570731d388"
+
+[[files]]
+file = "mods/Baubles-1.7.10-1.0.1.10.jar"
+hash = "05ae8f11b8f9012ebebbf179227b010829739c6284e30da5dd3db220ee682f8a"
+
+[[files]]
+file = "mods/BigDoors-1.7.10-1.1.0.jar"
+hash = "8a1f65fc07f7ab24ccbca1961cad6ae1087a5f3a6cb0ce8790078557648f67bf"
+
+[[files]]
+file = "mods/BuildingBlocks+_1.7.10.jar"
+hash = "1b67335570cf7b5bdce21f82da13e84ef4ae74fefee40a950c9c0f6a15214faa"
+
+[[files]]
+file = "mods/Calendar-1.7.10-1.0-4.jar"
+hash = "3ff49b0f75dc7bbd9b530eedbee0f286a1f792cd6b04036c8db36642b387439c"
+
+[[files]]
+file = "mods/Calendar-Mod-1.7.10.jar"
+hash = "70680df428eb5a07faca63870e91eb908eed142e09f1d1387a03af9f5e92744e"
+
+[[files]]
+file = "mods/Carpenter's+Blocks+v3.3.8.1+-+MC+1.7.10.jar"
+hash = "ac3d42a5fa4af8abab3482678e93c6f4a36a371e12baa9c4aad4e983b0257698"
+
+[[files]]
+file = "mods/ChickenChunks-1.7.10-1.3.4.19-universal.jar"
+hash = "4bf193e3b9a91bceef65e82f6a27ee5c050d29552ef7e1606f222a79571fc44e"
+
+[[files]]
+file = "mods/Chisel-2.9.5.11.jar"
+hash = "68c8a4f4c7785f939d8fa2e7df56c76afa37dfd2574f738a07d3dfd80d6257a6"
+
+[[files]]
+file = "mods/CoFHCore-[1.7.10]3.1.4-329.jar"
+hash = "acefa71392eff745dcfd6d6d5e49b6586e2e4e103d1260f4674f622152ef6f60"
+
+[[files]]
+file = "mods/CodeChickenCore-1.7.10-1.0.7.48-universal.jar"
+hash = "98b33b39c05e83fe76d7bfedda76db686acccd53c0e996c11da75838b15a1399"
+
+[[files]]
+file = "mods/CreativeCore+v1.3.24+mc1.7.10.jar"
+hash = "bcffd76d9fb29a3b6546c319be91e90624e54b0b5b77f53fba88dbe955ca8373"
+
+[[files]]
+file = "mods/CustomNPCs_1.7.10d(29oct17).jar"
+hash = "c4c4d34731a02dfc071580d9e25b54ecb656e4526cfd07f48818dea9a22246d4"
+
+[[files]]
+file = "mods/Decocraft-2.4.2_1.7.10.jar"
+hash = "047fe4871ee6101f33ea2b1a89e9685746bb380e5f44152aac40b1da92315f2e"
+
+[[files]]
+file = "mods/DynamicTransport-0.1.2.0.jar"
+hash = "74657cf852af78a831f468e6c012c6360ab54db3009826d9d9cf38e68e53d2b0"
+
+[[files]]
+file = "mods/Et+Futurum-1.5.5.jar"
+hash = "89e6d879f0a8a39f3c37b5222472af4940bad414a473a600a6ffbd378b103262"
+
+[[files]]
+file = "mods/FlenixCitiesCore_[1.7.10]-0.16.1-b122.jar"
+hash = "a85e641ffb89ba44e95d04a624582c27636764cc7eb9d8cc2349eb24915c19b7"
+
+[[files]]
+file = "mods/FlenixRoads_[1.7.10]-0.10.0-b40.jar"
+hash = "3ef87a2057f681429933f9ad0da0820dcdb1b8b45d38f5706aebcbb06f44f089"
+
+[[files]]
+file = "mods/FloodLights-1.7.10-1.1.1-120.jar"
+hash = "79a83ea3b94a6b6c271d796d67b20839a611efef81f7ea8fb1691fdd3cfb9d80"
+
+[[files]]
+file = "mods/Food-Plus-Mod-1.7.10.jar"
+hash = "7ec465a4411a2cc1a98b857bf5f1377dd96318be6467e716430514fdac4bcbf4"
+
+[[files]]
+file = "mods/GravityGun-4.0.0-beta.jar"
+hash = "407fecb521aaf2c50dd93b46311c8449f08a90db5f3d204e622a92abb4854201"
+
+[[files]]
+file = "mods/Grim3212-Core-1.7.10.jar"
+hash = "0859c42dc1a00e3d8af0f256a148aad193c47f4b52f825209241e8bdbbab48ba"
+
+[[files]]
+file = "mods/IGW-Mod-1.7.10-1.1.3-18-universal.jar"
+hash = "4668c7dfc050171b8a4c1b43def19d20a6744e6c0e2eb86542bcf8084c44b1a7"
+
+[[files]]
+file = "mods/InvisiBlocks-Mod-1.7.10.jar"
+hash = "15d11fbae07a1da5543a04725aa1c9e517d496a0c6e9283e277e1c52d9dc66ec"
+
+[[files]]
+file = "mods/LampsAndTrafficlights-1.2-Minecraft_1.7.10.jar"
+hash = "ae35f2a621df49998a31c50102c72574bc11a3d9b6fd2d054914725711b925bb"
+
+[[files]]
+file = "mods/LittleTiles+v1.2.0+mc1.7.10.jar"
+hash = "4fe561e212b2a5e14e1bbf26a621b67be08a8c14c4e8f22bc6fa61bcd62b1234"
+
+[[files]]
+file = "mods/Lots-of-Food-1.7.10-v7.jar"
+hash = "11451fcf0983725bd999c4492cafc882c5f76629a218c4b4272d37aa7cc42834"
+
+[[files]]
+file = "mods/MineFactoryReloaded-[1.7.10]2.8.0RC6-5.jar"
+hash = "1f880b149a7cf75f0c9b997c96f21e145cd79648ddf42d1cadb545a3fbb74fba"
+
+[[files]]
+file = "mods/MoarSigns-1.7.10-1.2.4.jar"
+hash = "f5a44397af5d2df77bb1beea17fb2ca18e9aae68042aac94ca3df2d5492a324a"
+
+[[files]]
+file = "mods/Monoblocks-11.6.jar"
+hash = "a27c053cedbf4f8d4ec918b850e0270daf244b53af8292d0115f9f29a36f75db"
+
+[[files]]
+file = "mods/MrCrayfishFurnitureModv3.4.7(1.7.10).jar"
+hash = "6cc11b93914c7ec84036cd5922cf1cbad9a6da663fdfe82a809b2ec737707729"
+
+[[files]]
+file = "mods/NotEnoughItems-1.7.10-1.0.5.120-universal.jar"
+hash = "3ebbc2f82b61812aa158375005a47da4d450bec870860fcbf015a64de74cde1c"
+
+[[files]]
+file = "mods/OptiFine_1.7.10_HD_U_E7.jar"
+hash = "8bcd9d83de001a0591f498105f369f070c47d2c9192774d5a5b69f646e44fab4"
+
+[[files]]
+file = "mods/Poop-Mod-1.7.10.jar"
+hash = "a22d07f683bf68221e59e8364f4af45d6bc4a7556d842e57e28ca47c59649610"
+
+[[files]]
+file = "mods/PortalGun-4.0.0-beta-6.jar"
+hash = "456efda1ebea9302022a5fb661767847dac05a8e36d8277decc739530e9b7435"
+
+[[files]]
+file = "mods/Railcraft_1.7.10-9.12.2.0.jar"
+hash = "20d3c6ab0961545853207d263132788dde7198e9b9856a3abcd289c05691d1d5"
+
+[[files]]
+file = "mods/RedstonePasteMod-1.7.10-1.6.2.jar"
+hash = "01d9b258a619d7a5eebf03277066b0b50a20c95b745d38c90fd2bc8498e43715"
+
+[[files]]
+file = "mods/RoadStuff-mc1.7.10-1.0.2-final.jar"
+hash = "7b22dbbdd73bb0834352f0774bf069d284b32e0765928ccb39cec8a9a20f0179"
+
+[[files]]
+file = "mods/SignPicture-1.7.10-2.8.0-universal.jar"
+hash = "a0b6ce01d3230dc884debd7e5a56e66691c09d5311b64e43cc6facca2f1b1d74"
+
+[[files]]
+file = "mods/SimpleWorldTimer-1.7.10-1.1.2.jar"
+hash = "49a8d689ff2e553fc614d6ca51635612b565f896c1f04cfb9d0c8da2956ed8a1"
+
+[[files]]
+file = "mods/SimplyJetpacks-MC1.7.10-1.5.3.jar"
+hash = "1f46280d33c1c41b4a73054dd70286b740a1f18c7a4d5e857e4a63b8193d2cd5"
+
+[[files]]
+file = "mods/SleepingBag-1.7.10-0.1.1.jar"
+hash = "42685d8fcab8312be29460f0be1de212b7de9a15270012412c191a7b5a20cefb"
+
+[[files]]
+file = "mods/SlimevoidLibrary-2.0.4.7.jar"
+hash = "adf2d926dc3b168a1810bfb7f5accb54818196032c0676c8d386f409b7acb70e"
+
+[[files]]
+file = "mods/Stefinus+Guns-0.5.2.jar"
+hash = "13ea77e87f90a9ab85e2b1873cce1c21329800f51d52270c2cc88bf22322634b"
+
+[[files]]
+file = "mods/UsefulFood-1.7.10-1.4.5.jar"
+hash = "170130436d9c65149f9b8d5d0d6b45c38b417ae3239db2794f410a5f1f568918"
+
+[[files]]
+file = "mods/Vending-Machines-Revamped-Mod-1.7.10.jar"
+hash = "86ad7cefa8ab9a5c5796ba781695a49ce82c8ff8343768391df00fb78258a7ff"
+
+[[files]]
+file = "mods/Wall-Clock-Mod-1.7.10.jar"
+hash = "4e2b71badf5f11d5b92f3fcf2efe88759d98f83af096dd0ea435134a41d9a277"
+
+[[files]]
+file = "mods/WallpaperCraft_1.7.10_1.02.jar"
+hash = "89b5b3c470ffe49523379310b48f6e3b88064c07cf3849f6421651015252a95c"
+
+[[files]]
+file = "mods/World-Tools-Mod-1.7.10.jar"
+hash = "98b734c507cae003077e281659fb01aa1d5bbac0c0a65aaab0ba5915c248d761"
+
+[[files]]
+file = "mods/Ztones-1.7.10-2.2.1.jar"
+hash = "9e98c36568af92dbb388dfec2b36b3f0d76cb1dc284a6bbe06e98b89204b96f4"
+
+[[files]]
+file = "mods/[1.7.10]+SecurityCraft+v1.8.13.jar"
+hash = "fb55d6c69a23973defaf1d0c7767c665d3cf4fbafa1dfbe127da3853099e921a"
+
+[[files]]
+file = "mods/globbypotato_rockhounding_1.7.10-4.14.jar"
+hash = "05e392f58ad078e695babf92b711f1473f63231f264a69302356c70e95dddb0c"
+
+[[files]]
+file = "mods/iChunUtil-4.2.2.jar"
+hash = "35e007551dc19dbcded8a0476e0cff20d34b42f4b71273772ac1b8382dd245c2"
+
+[[files]]
+file = "mods/malisiscore-1.7.10-0.14.3.jar"
+hash = "bb1185aa0a21396830f212e3acba63134f6304a334689849a907a9ccadab5ade"
+
+[[files]]
+file = "mods/malisisdoors-1.7.10-1.13.2.jar"
+hash = "ac1c37833aa8ec38a38f42111a9b2e196336b14c0891a3e76e284a61d1fb3dac"
+
+[[files]]
+file = "mods/secretroomsmod-1.7.10-4.7.1.413.jar"
+hash = "84010585557eae2000acec055b65872efc93b7ed54179f76c9ec1e2c7519ae0d"
+
+[[files]]
+file = "mods/wallpaint_1.7.10.jar"
+hash = "231e7c265266fbe4f40590c31831ca484d439e6d3ec16da4981596e2c5396c5c"

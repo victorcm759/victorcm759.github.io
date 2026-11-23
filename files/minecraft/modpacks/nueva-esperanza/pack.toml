@@ -1,0 +1,13 @@
+name = "Nueva Esperanza"
+author = "Víctor Català"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c0599aee4ffbb9d289b8083f697d2631a872ae531292aeeb9c9beaa4db721352"
+
+[versions]
+forge = "10.13.4.1614"
+minecraft = "1.7.10"
